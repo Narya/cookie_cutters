@@ -12,5 +12,5 @@ The files were created with
 
 Batman
 ------
-<img src=".blob/master/batman/batman-preview.png" width="200px" /><br />
-<img src=".blob/master/batman/batman-cookies.jpg" width="200px" />
+<img src="blob/master/batman/batman-preview.png" width="200px" /><br />
+<img src="blob/master/batman/batman-cookies.jpg" width="200px" />
